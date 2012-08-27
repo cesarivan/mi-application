@@ -33,4 +33,3 @@ if(count($parametrosGet)>2){
 	}
 }
 
-print_r($_GET);
